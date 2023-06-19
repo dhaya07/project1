@@ -6,6 +6,6 @@ def max(a, b):
         return b
      
 # Driver code
-a = 2
+a = 7
 b = 4
 print(max(a, b))
